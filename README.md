@@ -5,13 +5,15 @@ The simulations systematically vary key parameters of the MW–LMC system (the L
 
 Key Features:
 
-1. Coverage of about 3,000 parameter combinations using Latin Hypercube sampling (2,000 isotropic MW halo and 1,000 anisotropic MW halo with a radially varying anisotropy profile \beta(r))
+1. Coverage of about 3,000 parameter combinations using Latin Hypercube sampling (2,000 isotropic MW halo with $\beta(r)=0$ and 1,000 anisotropic MW halo with a radially varying anisotropy profile $\beta(r)=-0.15-0.2 \alpha(r); \alpha(r)=\frac{\mathrm{d} \ln \rho(r)}{d \ln r}$)
 
-2. Snapshots from 100 epochs within the last 2 Gyrs, including present-day configurations
+2. Snapshots from 101 epochs within the last 2 Gyrs, including present-day configurations
 
-3. Detailed modeling of the LMC-induced perturbations in the MW halo
+3. Detailed modeling of the LMC-induced perturbations in the MW DM halo
 
 4. Designed for use in stream modeling, halo kinematic studies, and forward modeling of Gaia-era data
+  
+5. For the simulation details, please refer to Sheng & Ting & Xue 2025 
 
 Due to the storage demands of the full N-body snapshots (approximately 5 TB in total), this GitHub repository provides only the Basis Function Expansion (BFE) representations of each snapshot, which capture the global phase-space structure of the halo in a compact and flexible format.
 
