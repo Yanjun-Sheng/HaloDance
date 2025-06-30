@@ -5,7 +5,7 @@ The simulations systematically vary key parameters of the MW–LMC system (the L
 
 Key Features:
 
-1. Coverage of about 3,000 parameter combinations using Latin Hypercube sampling (2,000 isotropic MW halo with $\beta(r)=0$ and 1,000 anisotropic MW halo with a radially varying anisotropy profile $\beta(r)=-0.15-0.2 \alpha(r); \alpha(r)=\frac{\mathrm{d} \ln \rho(r)}{d \ln r}$)
+1. Coverage of approximately 3,000 parameter combinations spanning the MW’s NFW halo virial mass $M_{\mathrm{MW}}$, concentration $c$, flattening $q$, and the LMC halo mass $M_{\mathrm{LMC}}$, generated using Latin Hypercube sampling. This includes 2,000 models assuming an isotropic MW halo with $\beta(r) = 0$, and 1,000 models adopting a radially varying anisotropy profile $\beta(r) = -0.15 - 0.2,\alpha(r)$, where $\alpha(r) = \frac{\mathrm{d} \ln \rho(r)}{\mathrm{d} \ln r}$.
 
 2. Snapshots from 101 epochs within the last 2 Gyrs, including present-day configurations
 
