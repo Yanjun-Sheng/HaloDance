@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/halodance_cat.png" alt="HaloDance Logo" width="300"/>
+</p>
+
 # HaloDance
 HaloDance is a publicly released suite of N-body simulation results that captures the complex gravitational interaction between the Milky Way (MW) and the Large Magellanic Cloud (LMC) across a broad parameter space. Designed to explore the dynamical response of the MW halo to the infall of the LMC, this simulation grid provides a valuable resource for studying the formation of stellar streams, halo anisotropy, and time-dependent signatures in the Galactic potential.
 
