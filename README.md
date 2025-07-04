@@ -21,7 +21,7 @@ Key Features:
 
 Due to the storage requirements of the full N-body snapshots (∼8 TB total), we will upload 20 snapshots per simulation grid (each with $10^6$ particles and spaced by 0.1 Gyr) to Google Drive. This GitHub repository will later provide the Basis Function Expansion (BFE) representations of each snapshot, which capture the global phase-space structure of the halo in a compact and flexible format.
 
-If you are interested in accessing the full N-body snapshot data (including the high-res $10^{7}$ snapshots), please feel free to reach out to Yanjun Sheng at Yanjun.Sheng@anu.edu.au or yanjunsheng1998@gmail.com.
+If you are interested in accessing the full N-body snapshot data (including the high-res snapshots with $10^{7}$ particles), please feel free to reach out to Yanjun Sheng at Yanjun.Sheng@anu.edu.au or yanjunsheng1998@gmail.com.
 
 HaloDance invites the community to explore how the Galactic halo "dances" to the gravitational rhythm set by the LMC. 
 
