@@ -9,7 +9,7 @@ The simulations systematically vary key parameters of the MW–LMC system (the L
 
 Key Features:
 
-1. Coverage of approximately 3,000 parameter combinations spanning the MW’s NFW halo virial mass $M_{\mathrm{MW}}$, concentration $c$, flattening $q$, and the LMC halo mass $M_{\mathrm{LMC}}$, generated using Latin Hypercube sampling. This includes 2,000 models assuming an isotropic MW halo with $\beta(r) = 0$, and 1,000 models adopting a radially varying anisotropy profile $\beta(r) = -0.15 - 0.2,\alpha(r)$, where $\alpha(r) = \frac{\mathrm{d} \ln \rho(r)}{\mathrm{d} \ln r}$.
+1. Coverage of approximately 2,848 parameter combinations spanning the MW’s NFW halo virial mass $M_{\mathrm{MW}}$, concentration $c$, flattening $q$, and the LMC halo mass $M_{\mathrm{LMC}}$, generated using Latin Hypercube sampling. This includes 1,848 models assuming an isotropic MW halo with $\beta(r) = 0$, and 1,000 models adopting a radially varying anisotropy profile $\beta(r) = -0.15 - 0.2,\alpha(r)$, where $\alpha(r) = \frac{\mathrm{d} \ln \rho(r)}{\mathrm{d} \ln r}$.
 
 2. Snapshots from 101 epochs within the last 2 Gyrs, including present-day configurations
 
@@ -19,9 +19,9 @@ Key Features:
   
 5. For the simulation details, please refer to Sheng & Ting & Xue 2025 
 
-Due to the storage demands of the full N-body snapshots (approximately 5 TB in total), this GitHub repository provides only the Basis Function Expansion (BFE) representations of each snapshot, which capture the global phase-space structure of the halo in a compact and flexible format.
+Due to the storage requirements of the full N-body snapshots (∼8 TB total), we will upload 20 snapshots per simulation grid (each with $10^6$ particles and spaced by 0.1 Gyr) to Google Drive. This GitHub repository will later provide the Basis Function Expansion (BFE) representations of each snapshot, which capture the global phase-space structure of the halo in a compact and flexible format.
 
-If you are interested in accessing the full N-body snapshot data, please feel free to reach out to Yanjun Sheng at Yanjun.Sheng@anu.edu.au or yanjunsheng1998@gmail.com.
+If you are interested in accessing the full N-body snapshot data (including the high-res $10^{7}$ snapshots), please feel free to reach out to Yanjun Sheng at Yanjun.Sheng@anu.edu.au or yanjunsheng1998@gmail.com.
 
 HaloDance invites the community to explore how the Galactic halo "dances" to the gravitational rhythm set by the LMC. 
 
