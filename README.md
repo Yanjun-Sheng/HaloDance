@@ -26,6 +26,7 @@ Due to the large storage requirements of the full N-body snapshot suite (~11 T
 To download a snapshot, use a command like:
 ```bash
 wget https://halo-dance.s3.us-east-1.amazonaws.com/isotropic_MW_halo/Model_413/snapshot_000.hdf5
+```
 Note: For the anisotropic MW models, change the subdirectory from isotropic_MW_halo to anisotropic_MW_halo.
 
 ### Snapshot Index and Lookback Time
