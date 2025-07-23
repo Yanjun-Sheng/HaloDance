@@ -34,11 +34,11 @@ Note: For the anisotropic MW models, change the subdirectory from **isotropic_MW
 The following table shows the correspondence between snapshot indices and lookback times:
 | Snapshot Index | Lookback Time (Gyr) |
 |----------------|---------------------|
-| 0              | 2.0                 |
-| 20             | 1.6                 |
-| 40             | 1.2                 |
-| 60             | 0.8                 |
-| 80             | 0.4                 |
+| 000            | 2.0 (initial)       |
+| 020            | 1.6                 |
+| 040            | 1.2                 |
+| 060            | 0.8                 |
+| 080            | 0.4                 |
 | 100            | 0.0 (present day)   |
 
 If you are interested in accessing the full N-body snapshot data (including the high-res snapshots with $10^{7}$ particles), please feel free to reach out to Yanjun Sheng at Yanjun.Sheng@anu.edu.au or yanjunsheng1998@gmail.com.
